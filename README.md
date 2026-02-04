@@ -51,7 +51,7 @@ Quali_Nutri — (adicione descrição aqui)
 <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white"/>
 </p>
 <p><strong>Sistema hierárquico de controle sanitário alimentar</strong></p>
-<p>SESPA → Município → Produtor | Daily posts | Treinamentos | Pagamentos PIX | Geolocalização</p>
+<p>Produtor | Daily posts | Treinamentos | Pagamentos PIX | Geolocalização</p>
 </div>
 </td>
 
