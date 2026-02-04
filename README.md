@@ -16,9 +16,32 @@
 
 ---
 
-<h1 align="center">👋 Olá, eu sou Marcos</h1> <p align="center"> <b>Desenvolvedor Full Stack | Mobile (Flutter) | Firebase | APIs | Pagamentos</b> </p> <p align="center"> Construo soluções completas do zero à produção: mobile, backend, integrações, segurança e pagamentos. </p>
+## 📊 Estatísticas do Repositório
 
-<h2>📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MarcosDsFurtado&show_icons=true&theme=dark" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDsFurtado&layout=compact&theme=dark" height="165"/> </p>
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcosDsFurtado&theme=github-dark"/>
+</p>
+
+---
+
+## 📈 Contribuições
+
+<p align="center">
+  <a href="https://github.com/MarcosDsFurtado/quali_nutri/issues">
+    <img src="https://img.shields.io/github/issues/MarcosDsFurtado/quali_nutri?style=plastic&logo=appveyor&color=4CAF50"/>
+  </a>
+  <a href="https://github.com/MarcosDsFurtado/quali_nutri/pulls">
+    <img src="https://img.shields.io/github/pulls/MarcosDsFurtado/quali_nutri?style=plastic&logo=appveyor&color=2196F3"/>
+  </a>
+  <a href="https://github.com/MarcosDsFurtado/quali_nutri/stargazers">
+    <img src="https://img.shields.io/github/stars/MarcosDsFurtado/quali_nutri?style=plastic&logo=appveyor&color=FFC107"/>
+  </a>
+  <a href="https://github.com/MarcosDsFurtado/quali_nutri/network/members">
+    <img src="https://img.shields.io/github/forks/MarcosDsFurtado/quali_nutri?style=plastic&logo=appveyor&color=9C27B0"/>
+  </a>
+</p>
+
+---
 
 <h2>🔗 Contato</h2>
 
