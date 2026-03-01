@@ -62,8 +62,8 @@ Quali_Nutri — (adicione descrição aqui)
 
 <table>
 <tr>
-<td width="33%">
-<h3 align="center">🍇 QualiAcai</h3>
+<td width="30%">
+<h3 align="center">🍇 QualiAcai-Mobile</h3>
 <div align="center">
 <a href="https://github.com/MarcosDsFurtado/QualiAcai" target="_blank">
 <img src="https://img.shields.io/badge/Privado-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="Privado"/>
@@ -81,7 +81,7 @@ Quali_Nutri — (adicione descrição aqui)
 
 <table>
 	<tr>
-		<td width="33%">
+		<td width="25%">
 			<h3 align="center">🍇 Site QualiAçaí</h3>
 			<div align="center">
 				<a href="https://github.com/MarcosDsFurtado/siteQualiAcai" target="_blank">
@@ -98,7 +98,7 @@ Quali_Nutri — (adicione descrição aqui)
 		</td>
 	</tr>
 
-<td width="33%">
+<td width="25%">
 <h3 align="center">🥗 Quali_Nutri</h3>
 <div align="center">
 <a href="https://github.com/MarcosDsFurtado/Quali_Nutri" target="_blank">
@@ -113,7 +113,7 @@ Quali_Nutri — (adicione descrição aqui)
 </div>
 </td>
 
-<td width="33%">
+<td width="25%">
 <h3 align="center">🍽️ Nutri_SND</h3>
 <div align="center">
 <a href="https://github.com/MarcosDsFurtado/Nutri_SND" target="_blank">
