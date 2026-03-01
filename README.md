@@ -127,5 +127,3 @@ Quali_Nutri — (adicione descrição aqui)
 </td>
 </tr>
 </table>
-
-</div>
