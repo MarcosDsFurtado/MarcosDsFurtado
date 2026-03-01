@@ -81,7 +81,7 @@ Quali_Nutri — (adicione descrição aqui)
 
 <table>
 	<tr>
-		<td width="100%">
+		<td width="33%">
 			<h3 align="center">🍇 Site QualiAçaí</h3>
 			<div align="center">
 				<a href="https://github.com/MarcosDsFurtado/siteQualiAcai" target="_blank">
