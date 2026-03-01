@@ -77,9 +77,7 @@ Quali_Nutri — (adicione descrição aqui)
 <p>Produtor | Daily posts | Treinamentos | Pagamentos PIX | Geolocalização</p>
 </div>
 </td>
-  
-
-<table>
+  <table>
 	<tr>
 		<td width="15%">
 			<h3 align="center">🍇 Site QualiAçaí</h3>
@@ -97,7 +95,7 @@ Quali_Nutri — (adicione descrição aqui)
 			</div>
 		</td>
 	</tr>
-
+<table>
 <td width="15%">
 <h3 align="center">🥗 Quali_Nutri</h3>
 <div align="center">
@@ -112,7 +110,7 @@ Quali_Nutri — (adicione descrição aqui)
 <p>Planos alimentares | Acompanhamento | Receitas | Calculadora nutricional</p>
 </div>
 </td>
-
+<table>
 <td width="15%">
 <h3 align="center">🍽️ Nutri_SND</h3>
 <div align="center">
