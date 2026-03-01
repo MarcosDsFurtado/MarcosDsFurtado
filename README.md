@@ -62,7 +62,7 @@ Quali_Nutri — (adicione descrição aqui)
 
 <table>
 <tr>
-<td width="25%">
+<td width="15%">
 <h3 align="center">🍇 QualiAcai-Mobile</h3>
 <div align="center">
 <a href="https://github.com/MarcosDsFurtado/QualiAcai" target="_blank">
