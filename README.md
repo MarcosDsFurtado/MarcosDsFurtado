@@ -103,7 +103,7 @@ Quali_Nutri — (adicione descrição aqui)
 
 <table>
 	<tr>
-		<td width="50%">
+		<td width="33%">
 			<h3 align="center">🍇 Site QualiAçaí</h3>
 			<div align="center">
 				<a href="https://github.com/MarcosDsFurtado/siteQualiAcai" target="_blank">
@@ -123,7 +123,7 @@ Quali_Nutri — (adicione descrição aqui)
 </div>
 
 <table>
-<td width="33%">
+<td width="50%">
 <h3 align="center">🏥 Painel Nutri SND</h3>
 <div align="center">
 <a href="https://github.com/MarcosDsFurtado/Painel_Nutri_SND" target="_blank">
