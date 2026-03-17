@@ -121,3 +121,21 @@ Quali_Nutri — (adicione descrição aqui)
 	</tr>
 
 </div>
+
+<table>
+<td width="33%">
+<h3 align="center">🏥 Painel Nutri SND</h3>
+<div align="center">
+<a href="https://github.com/MarcosDsFurtado/Painel_Nutri_SND" target="_blank">
+<img src="https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/>
+</a>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+<p><strong>Painel hospitalar integrado (Enfermagem, Nutrição e Cozinha)</strong></p>
+<p>Leitos por setor | Dietas e restrições | Status de liberação | Painel da cozinha em tempo real</p>
+</div>
+</td>
