@@ -101,29 +101,27 @@ Quali_Nutri — (adicione descrição aqui)
 </tr>
 </table>
 
-<table>
-	<tr>
-		<td width="33%">
-			<h3 align="center">🍇 Site QualiAçaí</h3>
-			<div align="center">
-				<a href="https://github.com/MarcosDsFurtado/siteQualiAcai" target="_blank">
-					<img src="https://img.shields.io/badge/Privado-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="Privado" />
-				</a>
-				<p>
-					<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-					<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-					<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-				</p>
-				<p><strong>Site institucional com foco em credibilidade e conversão</strong></p>
-				<p>Layout moderno | Conteúdo estratégico | Responsivo | SEO básico</p>
-			</div>
-		</td>
-	</tr>
+<br/>
 
+<table>
+<tr>
+<td width="33%">
+<h3 align="center">🍇 Site QualiAçaí</h3>
+<div align="center">
+<a href="https://github.com/MarcosDsFurtado/siteQualiAcai" target="_blank">
+<img src="https://img.shields.io/badge/Privado-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="Privado"/>
+</a>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+<p><strong>Site institucional com foco em credibilidade e conversão</strong></p>
+<p>Layout moderno | Conteúdo estratégico | Responsivo | SEO básico</p>
 </div>
+</td>
 
-<table>
-<td width="50%">
+<td width="33%">
 <h3 align="center">🏥 Painel Nutri SND</h3>
 <div align="center">
 <a href="https://github.com/MarcosDsFurtado/Painel_Nutri_SND" target="_blank">
@@ -139,3 +137,22 @@ Quali_Nutri — (adicione descrição aqui)
 <p>Leitos por setor | Dietas e restrições | Status de liberação | Painel da cozinha em tempo real</p>
 </div>
 </td>
+
+<td width="33%">
+<h3 align="center">🚗 BORA DE CARONA</h3>
+<div align="center">
+<a href="https://github.com/MarcosDsFurtado/BORA-DE-CARONA" target="_blank">
+<img src="https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/>
+</a>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+</p>
+<p><strong>Plataforma de caronas com cadastro único de usuário</strong></p>
+<p>Buscar e oferecer viagens | Validação de perfil | Avaliações por viagem | Perfil público com média e comentários</p>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
