@@ -151,7 +151,7 @@ Quali_Nutri — (adicione descrição aqui)
 <img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white"/>
 </p>
 <p><strong>Plataforma de caronas com cadastro único de usuário</strong></p>
-<p>Buscar e oferecer viagens | Validação de perfil | Avaliações por viagem | Perfil público com média e comentários</p>
+<p>Buscar e oferecer viagens | Validação de perfil | Avaliações por viagem | Pagamento PIX | Perfil público com média e comentários</p>
 </div>
 </td>
 </tr>
