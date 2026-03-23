@@ -147,6 +147,8 @@ Quali_Nutri — (adicione descrição aqui)
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=flat-square&logo=mercadopago&logoColor=white"/>
 </p>
 <p><strong>Plataforma de caronas com cadastro único de usuário</strong></p>
 <p>Buscar e oferecer viagens | Validação de perfil | Avaliações por viagem | Perfil público com média e comentários</p>
